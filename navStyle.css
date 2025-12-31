@@ -43,7 +43,7 @@ button{
 .nature{
     width:100px;
     height: 100px;
-    background-image: url("nature.avif");
+    background-image: url("nature.jpg");
     background-size:cover;
     position: absolute;
     right:10px;
